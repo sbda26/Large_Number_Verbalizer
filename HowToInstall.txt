@@ -1,0 +1,5 @@
+LARGE NUMBER VERBALIZER
+
+For 32-bit PCs, launch 32-bit\Install32.msi
+
+For 64-bit PCs, launch 64-bit\Install64.msi
